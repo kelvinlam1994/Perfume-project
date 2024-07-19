@@ -1,0 +1,273 @@
+"brand_id","brand"
+1,Melvita
+2,Naturally European
+3,Fresh
+4,Hollister
+5,Narciso Rodriguez
+6,Tous
+7,L'OCCITANE
+8,Salvatore Ferragamo
+9,Coach
+10,Moschino
+11,Bentley
+12,Banana Republic
+13,Bvlgari
+14,Jo Malone
+15,Penhaligon'S
+16,Givenchy
+17,Hermès
+18,Lancôme
+19,Montblanc
+20,Burberry
+21,Swiss Army
+22,Gucci
+23,Rohto
+24,Aromas Artesanales De Antigua
+25,Giorgio Armani
+26,Anna Sui
+27,Yves Saint Laurent (YSL)
+28,Sabon
+29,Davidoff
+30,Guerlain
+31,Acqua Di Parma
+32,Chanel
+33,Cocod'or
+34,Guess
+35,Byredo
+36,Atelier Cologne
+37,Marc Jacobs
+38,Teaology
+39,Dior
+40,Jurlique
+41,NaN
+42,TOM FORD
+43,LE LABO
+44,Foellie
+45,Halloween
+46,Urban Rituelle
+47,Rituals
+48,Marina De Bourbon
+49,Jaguar
+50,Cristiano Ronaldo CR7
+51,Issey Miyake
+52,Eleanor
+53,Mercedes-Benz
+54,adopt'
+55,Loewe
+56,Skybottle
+57,Abercrombie & Fitch
+58,Sanrio
+59,Diptyque
+60,"4711"
+61,Maison Margiela
+62,Versace
+63,Trussardi
+64,Chloé
+65,Calvin Klein
+66,Elizabeth Arden
+67,Sevaa
+68,Jean patou
+69,Escada
+71,Uncategorized
+72,Gianfranco Ferre
+73,Lacoste
+78,Miu Miu
+79,Viktor & Rolf
+80,Nina Ricci
+83,Britney Spears
+84,Lancome
+85,Parfums De Marly
+87,Kenzo
+88,Masaki Matsushima
+90,Armaf
+91,Lanvin
+92,男士香水 (Men's Perfume)
+93,Tommy Hilfiger
+94,Jimmy Choo
+96,Penhaligon's
+97,Mercedes Benz
+98,ELIE SAAB
+99,Ferrari
+103,Azzaro
+104,Hugo Boss
+105,Paris Hilton
+106,Carolina Herrera
+108,John Varvatos
+109,MontBlanc
+111,女士香水 (Women's Perfume)
+113,Roberto Cavalli
+114,Dsquared2
+115,Paco Rabanne
+116,Natori
+117,Creed
+118,Tom Ford
+120,Dolce & Gabbana
+121,Ralph Lauren
+122,Sean John
+123,Aramis
+124,Prada
+126,Thierry Mugler
+127,Armani
+128,Juicy Couture
+129,Chloe
+130,Jacques Bogart
+131,Franck Olivier
+132,Michael Kors
+134,Vera Wang
+136,Kenneth Cole
+137,Ariana Grande
+140,Jean Paul Gaultier
+141,DOLCE&GABBANA
+142,Monchhichi
+143,OTHER
+145,BURBERRY
+146,DAISY
+147,LE COUVENT
+148,全城熱賣
+149,LANCÔME
+150,香小薰
+151,KARL LAGERFELD
+154,JIMMY CHOO
+155,ACCA KAPPA
+157,MOSCHINO
+159,WARNER BROS.
+160,FITZELAR
+161,CREED
+162,Maison Francis Kurkdjian
+163,JEAN-CHARLES BROSSEAU
+164,Blossom By H
+165,Emoji
+166,Missha
+167,GIORGIO ARMANI
+168,FiiLiT
+169,Roger & Gallet
+170,JOOP!
+171,Gres
+172,Masse Molly
+173,UNITED COLORS OF BENETTON
+174,LAYERED FRAGRANCE
+176,Thierry Mugler (Mugler)
+177,CLINIQUE
+178,Cartier
+179,GIVENCHY
+180,MIU MIU
+181,Kilian
+182,John's Blend
+183,Suavinex
+184,laglacebeauty
+185,ISSEY MIYAKE
+187,UNIQUE BEAUTY
+188,PENHALIGON’S
+189,Hong Kong
+190,FROM THE INSIDE
+191,尋寶圖
+192,Laundrin
+193,ANNA SUI
+196,Skandinavisk
+197,COACH
+199,Miller Harris
+200,DREAM TREND
+202,UNIVERSE
+204,ONE
+205,Miracle Plant
+206,NUXE
+207,卡夏爾
+208,ROERANCE
+209,DIOR
+213,HOME LIVING
+214,VERSACE
+215,SANRIO
+216,HUGO BOSS
+218,阿瑪尼
+219,PRADA
+220,瑟路菲
+221,Frederic Malle
+222,W.Dressroom
+223,BULGARIAN ROSE
+224,adidas
+226,日本香堂
+228,Charlotte Tilbury
+229,JESSICA McCLINTOCK
+230,Serge Lutens
+231,芙樂思天然
+233,BYREDO
+234,LANVIN
+235,Beautique
+237,韓國人氣品牌
+238,美少女戰士
+239,LAVONS
+242,Valentino
+244,ALFRED SUNG
+245,Juliette
+246,LOUIS VUITTON
+247,CAUDALIE
+248,DKNY
+249,MUGLER
+250,Mrs. MEYER'S
+251,TIFFANY & Co.
+252,DIESEL
+253,EIGHT & BOB
+255,JAPARA
+256,KENZO
+257,The House of Oud
+258,LALIQUE
+259,AESOP
+260,WB
+261,SOLID STATE
+262,L’OCCITANE
+263,Aēsop
+264,MCM
+265,CANMAKE TOKYO
+266,Dream Skin
+267,philosophy
+268,VIKTOR & ROLF
+269,BACK TO SIXTEEN
+270,小林製藥
+271,A'pieu
+272,JUICY Couture
+273,MOTHER AND DAUGHTER
+274,DAVIDOFF
+275,ACQUA DI PARMA
+276,路易威登
+277,FLORIS
+278,屯京
+280,TRAVALO
+281,Baramee Thailand
+282,Juliette Has a Gun
+283,CLEAN
+284,Memo
+285,MONT BLANC
+286,HEM
+287,LAGERFELD
+288,Marc by Marc Jacobs
+289,春燕
+290,香薰之家
+291,MIMI LAURYNE'S
+292,HOTBUY
+293,韓國直送
+294,BVLGARI
+295,AKM
+296,Moody Mood
+297,BOTTEGA VENETA
+299,La Flara
+300,Lothantique
+301,SAINT LAURENT
+302,L'Occitane
+304,sisley
+305,john varvatos
+306,Chole
+307,Hemani
+308,FIANCÉE
+310,Revlon
+311,ANTONIO BANDERAS
+312,KORMESIC
+313,Orgie
+314,Loris Azzaro
+316,Estée Lauder
+317,PLANTES & PARFUMS
+318,The Body Shop
+319,Lolita Lempicka
+320,L'Artisan Parfumeur
+321,JOSERISTINE
+323,SWY
+324,ARMAF
